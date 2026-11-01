@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+
+# Downloaded clients
+python-clients/
+
+# Audio files (optional - uncomment if you don't want to track audio files)
+# *.wav
+# *.ogg
+# *.opus
+# *.flac
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NVIDIA Riva python-clients (third-party): git clone https://github.com/nvidia-riva/python-clients.git
+python-clients/
